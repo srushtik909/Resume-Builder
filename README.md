@@ -1,4 +1,35 @@
-Smart Resume BuilderA comprehensive resume management solution that combines a modern resume builder.🚀 FeaturesResume BuilderModern, responsive user interface built with React and Tailwind CSSReal-time resume previewPDF export functionalityCustomizable sections and templatesEasy-to-use form interface🛠️ Technology StackResume BuilderReact 18ViteTailwind CSSjsPDF for PDF generation📋 PrerequisitesFor Resume BuilderNode.js (v14 or higher)npm or yarn🔧 InstallationSetting up the Resume BuilderNavigate to the Resume Builder directory:cd "resume builder/ResumeBuilder"
-Install dependencies:npm install
-Start the development server:npm run dev
-The application will be available at http://localhost:5173📝 UsageResume BuilderFill in your personal informationAdd your education and experienceInclude skills and other relevant sectionsPreview your resume in real-timeExport to PDF when satisfied🤝 ContributingContributions are welcome! Please feel free to submit a Pull Request.Fork the repositoryCreate your feature branch (git checkout -b feature/AmazingFeature)Commit your changes (git commit -m 'Add some AmazingFeature')Push to the branch (git push origin feature/AmazingFeature)Open a Pull Request📄 LicenseThis project is licensed under the MIT License - see the LICENSE file for details.🙏 AcknowledgmentsReact.js communityAll contributors and users of this project
+# Smart Resume Builder
+
+A modern resume builder with a responsive user interface. This project is built with React and Tailwind CSS, offering real-time resume preview, PDF export functionality, customizable sections, templates, and an easy-to-use form interface.
+
+## 🚀 Features
+
+- Modern, responsive user interface built with React and Tailwind CSS
+- Real-time resume preview
+- PDF export functionality
+- Customizable sections and templates
+- Easy-to-use form interface
+
+## 🛠️ Technology Stack
+
+- React 18
+- Vite
+- Tailwind CSS
+- jsPDF for PDF generation
+
+## 📋 Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
+## 🔧 Installation
+
+### Setting up the Resume Builder
+
+1. Navigate to the Resume Builder directory:
+```bash
+cd "resume builder/ResumeBuilder"
+npm install
+npm run dev
+The application will be available at http://localhost:5173
+
