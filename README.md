@@ -31,5 +31,6 @@ A modern resume builder with a responsive user interface. This project is built 
 cd "resume builder/ResumeBuilder"
 npm install
 npm run dev
-The application will be available at http://localhost:5173
+The application will be available at http://localhost:5173!
+
 
